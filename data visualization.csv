@@ -1,4 +1,4 @@
-﻿cluster,Continent_Name,Entity,Year,Drug use disorders (%),Depression (%)
+﻿cluster,Continent_Name,country,year,Drug use disorders (%),Depression (%)
 0,Asia,Afghanistan,1990,1.677081945,4.071831177
 0,Asia,Afghanistan,1991,1.684745731,4.079530935
 0,Asia,Afghanistan,1992,1.694333945,4.088358243
